@@ -1,0 +1,12 @@
+[
+ {
+ "run": "21069270-3",
+ "nombre": "Giancarlo",
+ "apellido": "Guarda",
+ "direccion": "Nueva Aurora",
+ "fono": 986002847,
+ "correo":"giancarlosaid147@gmail.com",
+ "montoCredito": 10000000,
+ "deuda":20000,
+ "tipo": 3
+ }
